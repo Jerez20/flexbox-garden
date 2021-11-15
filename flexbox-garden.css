@@ -41,4 +41,10 @@
     justify-content: space-around;
     align-items: flex-end;
   };
+
+  /* Nivel 8 */
+  #pond {
+    display: flex;
+    flex-direction: row-reverse;
+  }; 
   
