@@ -60,4 +60,11 @@
     flex-direction: row-reverse;
     justify-content: flex-end;
   };
+
+  /* Nivel 11 */
+  #pond {
+    display: flex;
+    flex-direction:column;
+    justify-content: flex-end;
+  };
   
