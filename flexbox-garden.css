@@ -82,3 +82,13 @@
     align-items: flex-end;
     flex-direction: row-reverse;
     };
+
+    /* Nivel 14 */
+    #pond {
+      display: flex;
+    }
+    
+    .yellow {
+    order :1
+    };
+    
