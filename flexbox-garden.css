@@ -4,4 +4,9 @@
   justify-content: flex-end;
   };
 
+  /* Nivel 2 */
+  #pond {
+    display: flex;
+  justify-content: center
+  };
   
