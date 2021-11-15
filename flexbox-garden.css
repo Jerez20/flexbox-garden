@@ -134,4 +134,11 @@
           flex-direction:column;
           flex-wrap: wrap;
     };
+
+    /* Nivel 20 */
+    #pond {
+      display: flex;
+    flex-flow: wrap column;
+    };
+
     
