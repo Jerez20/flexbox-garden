@@ -16,3 +16,9 @@
   justify-content: space-around;
   };
   
+  /* Nivel 4*/
+  #pond {
+    display: flex;
+  justify-content: space-between;
+  };
+  
