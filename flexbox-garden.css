@@ -162,4 +162,13 @@
     align-content: center;
     flex-direction: column-reverse;
   };
+
+  /* Nivel 24 */
+  #pond {
+    display: flex; 
+  flex-direction: column-reverse;
+  flex-wrap: wrap-reverse;
+  align-content:space-between;
+  justify-content: center;
+  }; 
   
