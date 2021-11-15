@@ -67,4 +67,11 @@
     flex-direction:column;
     justify-content: flex-end;
   };
+
+  /* Nivel 12 */
+  #pond {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column-reverse;
+  };
   
