@@ -27,4 +27,11 @@
     display: flex;
   align-items : flex-end;
   };
-  
+
+  /* Nivel 6*/
+  #pond {
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+   };
+   
