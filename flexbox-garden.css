@@ -121,4 +121,10 @@
     order:2;
     align-self: flex-end;
     };
+
+    /* Nivel 18 */
+    #pond {
+      display: flex;
+          flex-wrap: wrap;
+    };
     
