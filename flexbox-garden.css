@@ -91,4 +91,13 @@
     .yellow {
     order :1
     };
+
+    /* Nivel 15 */
+    #pond {
+      display: flex;
+    }
+    
+    .red {
+    order:-3
+    };
     
